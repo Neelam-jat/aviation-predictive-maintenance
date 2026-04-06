@@ -12,19 +12,6 @@
 </div>
 
 ---
-
-## 📑 Table of Contents
-- [About the Project (The "Why")](#-about-the-project-the-why)
-- [Key Features](#-key-features)
-- [How It Works (Under the Hood)](#-how-it-works-under-the-hood)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Usage & Expected Output](#-usage--expected-output)
-- [Future Scope](#-future-scope)
-- [License & Contact](#-license--contact)
-
----
-
 ## 📖 About the Project (The "Why")
 
 In the aviation industry, unexpected engine failures lead to catastrophic safety risks, massive financial losses, and widespread flight delays. Historically, airlines have relied on **Scheduled (Preventive) Maintenance**, replacing expensive engine components after a fixed number of flights, regardless of their actual condition. This results in millions of dollars wasted on perfectly healthy parts.
